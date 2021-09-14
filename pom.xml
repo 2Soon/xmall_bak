@@ -12,6 +12,7 @@
         <module>registry</module>
         <module>gateway</module>
         <module>xmall-item</module>
+        <module>xmall-common</module>
     </modules>
 
     <name>xmall</name>
